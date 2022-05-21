@@ -462,7 +462,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ccd2444cc92017d45a9d639ae1056b5f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 12
+  speed: 5
   rotationSpeed: 180
   playerCar: 0
   explosion: {fileID: 0}
